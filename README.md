@@ -1,4 +1,4 @@
-# My-ToDo-App
+# ToDo-App
 React TypeScript To-Do Application
 A modern, responsive to-do application built with React, TypeScript, and Tailwind CSS. This application demonstrates clean component architecture, proper state management, mock API integration, and excellent user experience patterns.
 
